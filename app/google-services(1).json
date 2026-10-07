@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893686553185",
+    "project_id": "chrissapp-bb7d3",
+    "storage_bucket": "chrissapp-bb7d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893686553185:android:42ff83a860513c142ee820",
+        "android_client_info": {
+          "package_name": "com.opera.chrisapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQpmS31XoXURW_oF46WIrfg77aYRQ1klk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
